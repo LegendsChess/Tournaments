@@ -2,23 +2,12 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-
-## Calender
-
-![Calender](https://raw.githubusercontent.com/LegendsChess/Tournaments/master/assets/img/Calender.jpg)
-
-## Brochure
-
-[Download Here](https://raw.githubusercontent.com/LegendsChess/Tournaments/master/assets/brochures/brochure.pdf)
-
-
-
 <section class="post-list">
    <div class="container">
-   	   test
+   	   test1
 	{% for image in site.static_files %}
 	    {% if image.path contains 'img/tournaments' %}
+		<h3>"{{ image.basename }}"</h3>
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
         {% endif %}
 	{% endfor %}
