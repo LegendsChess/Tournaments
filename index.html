@@ -4,10 +4,9 @@ layout: default
 
 <section class="post-list">
    <div class="container">
-   	   test1
 	{% for image in site.static_files %}
 	    {% if image.path contains 'img/tournaments' %}
-		<h3>"{{ image.basename }}"</h3>
+		<h3>{{ image.basename }}</h3>
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
         {% endif %}
 	{% endfor %}
