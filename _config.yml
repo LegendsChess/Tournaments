@@ -1,6 +1,6 @@
 title: Chess Legends
 logo: /assets/img/logo.jpeg
 description: Tag Line ?
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
