@@ -6,7 +6,7 @@ layout: default
 
 ## Calender
 
-![Calender](https://raw.githubusercontent.com/LegendsChess/Tournaments/master/assets/img/image_6483441.jpg)
+![Calender](https://raw.githubusercontent.com/LegendsChess/Tournaments/master/assets/img/Calender.jpg)
 
 ## Brochure
 
