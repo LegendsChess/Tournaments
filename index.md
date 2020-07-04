@@ -6,5 +6,9 @@ layout: default
 
 ## Calender
 
-![Octocat](https://chessdaily.in/wp-content/uploads/2020/07/image_6483441.jpg)
+![Calender](https://raw.githubusercontent.com/LegendsChess/Tournaments/master/assets/img/image_6483441.jpg)
+
+## Brochure
+
+[Download Here](https://raw.githubusercontent.com/LegendsChess/Tournaments/master/assets/brochures/brochure.pdf)
 
